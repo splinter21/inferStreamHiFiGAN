@@ -1,17 +1,3 @@
----
-license: apache-2.0
-language:
-- en
-pipeline_tag: text-to-speech
-tags:
-- HiFiGAN
-- Streaming Vocoder
-- Stream HiFiGAN
-- Stream Vocoder
-- Realtime TTS
-- TTS
-- Text-to-speech
----
 # StreamHiFiGAN
 
 StreamHiFiGAN offers a HiFiGAN vocoder model optimized for streaming inference, providing real-time audio synthesis capabilities.
